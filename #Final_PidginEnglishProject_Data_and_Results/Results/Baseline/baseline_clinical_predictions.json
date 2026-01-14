@@ -1,0 +1,272 @@
+[
+  {
+    "reference":"managementi n primary hyperparathyroidism surgical removal of the parathyroids is curative",
+    "whisper_prediction":"management and primary hyperparaderoism so the car removal of the paratroids is correct",
+    "wav2vec2_prediction":"manidment and primary hypof pyroderoism clogical rmovel of t paratorixs is cred",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.7272727273,
+    "wer_wav2vec2":0.8181818182,
+    "mwer_whisper":0.8333333333,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"minor anaphylactic reactions such as urticaria can be treated with oral or intramuscular chlorpheniramine",
+    "whisper_prediction":"mino anaphilatic reactions such as it is carrier can be treated with oral intramuscular prophyne in your mind",
+    "wav2vec2_prediction":"minor andaphilatic rasions such as bitish karea can be treated it ora or intramuscula propy neara mine",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.7142857143,
+    "wer_wav2vec2":0.7142857143,
+    "mwer_whisper":0.5,
+    "mwer_wav2vec2":0.875
+  },
+  {
+    "reference":"type ii saccular diverticulum of an extrahepatic bile duct",
+    "whisper_prediction":"type 2 circular davatic color of an extra hypatic biode",
+    "wav2vec2_prediction":"type two sircula levaticolo of an estra ypatic bido",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.7777777778,
+    "wer_wav2vec2":0.6666666667,
+    "mwer_whisper":1.0,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"the nature of a chronic ulcer white or red lesion or swelling of the mucous membrane must be confirmed by biopsy",
+    "whisper_prediction":"the nature of the chronic ulcer white or red lesion or swelling of the mucous membrane will be confirmed by biocin",
+    "wav2vec2_prediction":"the inature of a chronic osa white or read lython or soally of the mocos membry must be confirmed by biocy",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.1428571429,
+    "wer_wav2vec2":0.380952381,
+    "mwer_whisper":0.1428571429,
+    "mwer_wav2vec2":0.8571428571
+  },
+  {
+    "reference":"cesarean delivery does not prevent perinatal transmission of hpv",
+    "whisper_prediction":"cesarean s delivery does not prevent perinatal transmission of a huge",
+    "wav2vec2_prediction":"cesarind liri does not prevent perineta transmator has",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.3333333333,
+    "wer_wav2vec2":0.6666666667,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"gingivectomy for deep pocketing also exposes the necks of the teeth and produces a horse tooth appearance unacceptable to most patients",
+    "whisper_prediction":"gingerbread tommy for deep pocketing also exposes the neck of the teeth and produces a host to appear as unaccelerable to most patients",
+    "wav2vec2_prediction":"gingevectomy for de-pocketing also exposes the neck of te cheit and produces a host tod appearance ona certain to most patients",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.380952381,
+    "wer_wav2vec2":0.4285714286,
+    "mwer_whisper":0.5,
+    "mwer_wav2vec2":0.6666666667
+  },
+  {
+    "reference":"other specimen adequacy satisfactory for evaluation describe presence or absence of endocervical transformation zone component and any other quality indicators e",
+    "whisper_prediction":"other specimens adequacy satisfactory for evaluation describe presence or absence of endosevical transmission zone components and any other quality indicators comma e full stop",
+    "wav2vec2_prediction":"other specimen adequacy satisfactory for evaluation describe presence or absence of endocevical transformation zone components and enneother quality indicators calma efustab",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.3333333333,
+    "wer_wav2vec2":0.2857142857,
+    "mwer_whisper":0.4444444444,
+    "mwer_wav2vec2":0.2222222222
+  },
+  {
+    "reference":"however it can often be avoided by energetic treatment earlier",
+    "whisper_prediction":"however it can often be avoided by energetic treatments earlier",
+    "wav2vec2_prediction":"however coma it can often be avoided by energeti treatment earlierfull",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.1,
+    "wer_wav2vec2":0.3,
+    "mwer_whisper":0.3333333333,
+    "mwer_wav2vec2":0.3333333333
+  },
+  {
+    "reference":"it was at this time that her pulmonary nodules were further explored and she was diagnosed with metastatic lung cancer pulmonary artery thrombus and a malignant pleural effusion",
+    "whisper_prediction":"it was at this time that a pulmonary medicine was explored and she was diagnosed with metastatic lung cancer pulmonary atrial bus and the malignant spura effusion full stop",
+    "wav2vec2_prediction":"it was at this time that e punel mudes were fuda explore and she was diagnosed with metastetic long-casterporinary atrit rumbos and the malignat pura effusion",
+    "subgroup":"41-55|Female|clinical",
+    "wer_whisper":0.3571428571,
+    "wer_wav2vec2":0.5,
+    "mwer_whisper":0.2857142857,
+    "mwer_wav2vec2":0.7142857143
+  },
+  {
+    "reference":"myofascial defects are more difficult to manage",
+    "whisper_prediction":"myofascial defects are more difficult to manage",
+    "wav2vec2_prediction":"my ofasha defails are more difficult to maney",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.0,
+    "wer_wav2vec2":0.5714285714,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"there are many causes of premature loss of oocytes and premature menopause some of the more common causes are discussed below",
+    "whisper_prediction":"there are many causes of premature loss of all sides and premature menopause some of the more common causes are discussed below all stop",
+    "wav2vec2_prediction":"there are many causes of premature loss of usides and premature menoples some of the more common causes at discussed beo osop",
+    "subgroup":"19-25|Female|clinical",
+    "wer_whisper":0.1904761905,
+    "wer_wav2vec2":0.2380952381,
+    "mwer_whisper":0.1666666667,
+    "mwer_wav2vec2":0.3333333333
+  },
+  {
+    "reference":"in a healthy spine the spinal cord and nerve roots are suspended in csf free of mechanical compression",
+    "whisper_prediction":"in the head spine the spinal cord and nerve roots are suspended in the csf 3 of the mechanical cord",
+    "wav2vec2_prediction":"in heardy spine the spinal cord and nevroots are suspended inthese free of mechanical cor",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.3333333333,
+    "wer_wav2vec2":0.3888888889,
+    "mwer_whisper":0.2222222222,
+    "mwer_wav2vec2":0.4444444444
+  },
+  {
+    "reference":"pt is to receive a hemodialysis treatment after the catheter placement",
+    "whisper_prediction":"the chance is to receive a immodalysis treatment after the cut at a placement",
+    "wav2vec2_prediction":"e asceence is to receive a inmudialysis treatment after decatetar placement",
+    "subgroup":"19-25|Female|clinical",
+    "wer_whisper":0.5454545455,
+    "wer_wav2vec2":0.4545454545,
+    "mwer_whisper":0.5,
+    "mwer_wav2vec2":0.5
+  },
+  {
+    "reference":"there are essentially two main components to most two piece implant systems the endosseous component previously often called the implant fixture now known as the implant body",
+    "whisper_prediction":"there are essentially two main components to most two piece implant systems semicolon the endosciences components previously often called the implant extra now known as the implant body",
+    "wav2vec2_prediction":"there are essentially two main components to most two-piece in plant systems semicolonthe andusious components previously often called the implant extra ca now known as the implantd body",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.1481481481,
+    "wer_wav2vec2":0.2962962963,
+    "mwer_whisper":0.375,
+    "mwer_wav2vec2":0.375
+  },
+  {
+    "reference":"the relationship of roots particularly of the lower third molar to the inferior dental canal may be deduced from radiographs",
+    "whisper_prediction":"the relationship of roots particularly of the lower third molar to the inferior dental canal may be deduced from radiographs full stop",
+    "wav2vec2_prediction":"he relationship of roots ma particularly of te loatod mula ma to the interior dental canal may be deduced from rideo graphs",
+    "subgroup":"19-25|Female|clinical",
+    "wer_whisper":0.1,
+    "wer_wav2vec2":0.45,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":0.5
+  },
+  {
+    "reference":"113 some clinicians have used radiation therapy and biologic agents imatinib with some success in patients with advanced disease",
+    "whisper_prediction":"413 sun clinicians have used your different therapy and biological agents in martini with some success implications at last disease",
+    "wav2vec2_prediction":"on on three omfintions have useal different theraphy ambiological against imatiny with somesuccess efficiente with advanced diseases",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.5789473684,
+    "wer_wav2vec2":0.8421052632,
+    "mwer_whisper":0.5,
+    "mwer_wav2vec2":0.75
+  },
+  {
+    "reference":"it avoids the mastoid cavity therefore its problems",
+    "whisper_prediction":"it avoids the mastoid cavity comma therefore comma its problems full stop",
+    "wav2vec2_prediction":"it avoids dhemastoid cavity coma defor coma its problm",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.5,
+    "wer_wav2vec2":0.75,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":0.6666666667
+  },
+  {
+    "reference":"biofeedback techniques and weighted vaginal cones are available to assist patients in learning the proper technique",
+    "whisper_prediction":"biofeedback techniques are withered by general concepts available to assist patients in learning the proper techniques",
+    "wav2vec2_prediction":"biofeedball techniques and wited vigeneral concer avalable to assuspations in langy proper technice",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.375,
+    "wer_wav2vec2":0.6875,
+    "mwer_whisper":0.6,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"adenoids and infected tonsils may be predisposing factors responsible for the sinusitis",
+    "whisper_prediction":"adenoids and infected tone cells may be predisposing factors responsible for the sinusitis",
+    "wav2vec2_prediction":"othernoids and infected-tone cells may be predisposed in factors responsible for designocietes",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.1666666667,
+    "wer_wav2vec2":0.5833333333,
+    "mwer_whisper":0.1428571429,
+    "mwer_wav2vec2":0.5714285714
+  },
+  {
+    "reference":"there is a specific formula for children",
+    "whisper_prediction":"there is a specific formula for children full stop",
+    "wav2vec2_prediction":"there is a specic formulaly for children",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.2857142857,
+    "wer_wav2vec2":0.2857142857,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"took 62 and 35cc well with yellow nipple",
+    "whisper_prediction":"took 62 and 35 cc well with yellow nipple",
+    "wav2vec2_prediction":"took sixty-two and three tesi-five-c-c well with yellow nipo",
+    "subgroup":"<18yrs|Female|clinical",
+    "wer_whisper":0.25,
+    "wer_wav2vec2":1.0,
+    "mwer_whisper":0.25,
+    "mwer_wav2vec2":0.5
+  },
+  {
+    "reference":"the most commonly used agent is medroxyprogesterone acetate",
+    "whisper_prediction":"the most commonly used agent is medruzzi progesterule assertive",
+    "wav2vec2_prediction":"the most commonly used agent is medrozi projes teru assetid",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.375,
+    "wer_wav2vec2":0.5,
+    "mwer_whisper":1.0,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"calcitonin is a more sensitive tumor marker but cea is a better predictor of prognosis",
+    "whisper_prediction":"calcitonin is a more sensitive tumor marker but cea is a better predator of prognosis",
+    "wav2vec2_prediction":"calcitonin is a more sensitive tumo marca comma but cea is a better predio of broknosifustor",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.0666666667,
+    "wer_wav2vec2":0.3333333333,
+    "mwer_whisper":0.2,
+    "mwer_wav2vec2":0.6
+  },
+  {
+    "reference":"under such circumstances the patients head and neck are extended and the trachea palpated",
+    "whisper_prediction":"under such circumstances the patients head and neck are extended and the trachea part is affected",
+    "wav2vec2_prediction":"under such circumstances te pecions head and neck are extended and the trirchip par detaile",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":0.2142857143,
+    "wer_wav2vec2":0.3571428571,
+    "mwer_whisper":0.3333333333,
+    "mwer_wav2vec2":0.6666666667
+  },
+  {
+    "reference":"multicenter vats experience with mediastinal tumors",
+    "whisper_prediction":"goggles",
+    "wav2vec2_prediction":"moticentr ward is brumsed with mejastina twomors",
+    "subgroup":"19-25|Male|clinical",
+    "wer_whisper":1.0,
+    "wer_wav2vec2":1.0,
+    "mwer_whisper":1.0,
+    "mwer_wav2vec2":0.8
+  },
+  {
+    "reference":"her coronary arteries were other wise normal",
+    "whisper_prediction":"her coronary arteries were otherwise normal for stop",
+    "wav2vec2_prediction":"her curonary artrees were otherwise normal",
+    "subgroup":"41-55|Female|clinical",
+    "wer_whisper":0.5714285714,
+    "wer_wav2vec2":0.5714285714,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":1.0
+  },
+  {
+    "reference":"this node is not significantly changed in size and in intensity since the prior study today s max suv is 5 2 compared to the prior of 4 9",
+    "whisper_prediction":"this node is not significantly changed in size and in intensity since the prior study today s maximum standardized update value is 5 2 compared to the prior of 5 9",
+    "wav2vec2_prediction":"this node is not significantly changed in size and in intensity since the pryor story today's maximum standardize-obtake value is fivepoints tcompare to the pryor of five-point nine",
+    "subgroup":"41-55|Female|clinical",
+    "wer_whisper":0.1724137931,
+    "wer_wav2vec2":0.4482758621,
+    "mwer_whisper":0.0,
+    "mwer_wav2vec2":0.5
+  }
+]

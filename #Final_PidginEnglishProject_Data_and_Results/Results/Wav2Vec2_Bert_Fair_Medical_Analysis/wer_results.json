@@ -1,0 +1,83 @@
+{
+  "config": {
+    "Seed": 39,
+    "modelName": "w2v-bert-pidgin",
+    "language": "pidgin",
+    "task": "transcribe",
+    "fine-tuned": "yes",
+    "fairness": "yes",
+    "Fairness Aware Training": "yes",
+    "Subgroup_Sampling": "yes",
+    "Compute Loss": "CTC loss mean",
+    "Custom Sampler": "N/A",
+    "group_by_length": true,
+    "gradient_checkpointing": true,
+    "num_train_epochs": 30,
+    "batch_size": 16,
+    "learning_rate": 5e-05,
+    "warmup_steps": 0,
+    "fp16": true,
+    "dataloader_num_workers": 0,
+    "dataloader_pin_memory": false,
+    "save_total_limit": 2,
+    "eval_strategy": "epoch",
+    "save_strategy": "epoch",
+    "include_inputs_for_metrics": false,
+    "logging_strategy": "epoch",
+    "load_best_model_at_end": true,
+    "metric_for_best_model": "wer",
+    "greater_is_better": false,
+    "remove_unused_columns": false,
+    "report_to": [
+      "tensorboard"
+    ]
+  },
+  "ColabConfig": {
+    "GPU": "NVIDIA A100-SXM4-80GB",
+    "GPU_count": 1,
+    "RAM": "Colab RAM (dynamic)",
+    "CPU": "x86_64"
+  },
+  "ModelParams": {
+    "Model Name": "facebook/w2v-bert-2.0",
+    "attention_dropout": 0.001,
+    "hidden_dropout": 0.01,
+    "feat_proj_dropout": 0.001,
+    "mask_time_prob": 0.05,
+    "mask_time_length": 10,
+    "layerdrop": 0.0,
+    "ctc_loss_reduction": "mean",
+    "add_adapter": true,
+    "pad_token_id": 29,
+    "vocab_size": 30
+  },
+  "overall": {
+    "wer": 0.4434782608695652,
+    "cer": 0.15071659731853906
+  },
+  "by_gender": {
+    "Male": 0.4642857142857143,
+    "Female": 0.4161073825503356
+  },
+  "by_accent": {
+    "pidgin": 0.4434782608695652
+  },
+  "by_domain": {
+    "clinical": 0.4498714652956298,
+    "general": 0.43521594684385384
+  },
+  "by_age_group": {
+    "": 0.38461538461538464,
+    "19-25": 0.44891640866873067,
+    "<18yrs": 0.5107913669064749,
+    "41-55": 0.423728813559322
+  },
+  "wer_by_subgroup": {
+    "Female||general": 0.328125,
+    "Male|19-25|clinical": 0.4612546125461255,
+    "Male||general": 0.41904761904761906,
+    "Female|41-55|clinical": 0.423728813559322,
+    "Female|19-25|clinical": 0.38461538461538464,
+    "Female|<18yrs|general": 0.45689655172413796
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "summary_metrics": {
+    "clinical": {
+      "medical_precision": 0.9286,
+      "medical_recall": 0.3636,
+      "medical_f1": 0.5226,
+      "medical_wer": 0.6472,
+      "tp": 52,
+      "fp": 4,
+      "fn": 91,
+      "num_samples": 27
+    },
+    "general": {
+      "medical_precision": 0.8182,
+      "medical_recall": 0.9,
+      "medical_f1": 0.8571,
+      "medical_wer": 0.25,
+      "tp": 9,
+      "fp": 2,
+      "fn": 1,
+      "num_samples": 18
+    },
+    "error_samples": [
+      {
+        "sample_id": 0,
+        "reference": "managementi n primary hyperparathyroidism surgical removal of the parathyroids is curative",
+        "prediction": "management and primary hyperprioderoisein surgical removal of the phryatoroides iscreat",
+        "WER": 0.5454545454545454,
+        "mWER": 0.6666666666666666,
+        "missed_medical_terms": [
+          "curative",
+          "hyperparathyroidism",
+          "managementi",
+          "parathyroids"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 1,
+        "reference": "minor anaphylactic reactions such as urticaria can be treated with oral or intramuscular chlorpheniramine",
+        "prediction": "minor anafhilactic reation such as itiscaria can be treated with ora or intramuscular plofe neuramine",
+        "WER": 0.42857142857142855,
+        "mWER": 0.625,
+        "missed_medical_terms": [
+          "anaphylactic",
+          "chlorpheniramine",
+          "oral",
+          "reactions",
+          "urticaria"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 2,
+        "reference": "type ii saccular diverticulum of an extrahepatic bile duct",
+        "prediction": "titus sarculardevarticolum of an estrahepatic bido",
+        "WER": 0.7777777777777778,
+        "mWER": 1.0,
+        "missed_medical_terms": [
+          "bile",
+          "diverticulum",
+          "extrahepatic",
+          "saccular"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 3,
+        "reference": "the nature of a chronic ulcer white or red lesion or swelling of the mucous membrane must be confirmed by biopsy",
+        "prediction": "the natue of a cronic hosar whit or redlation or sweling of the mucoes membrane must be confirmed by piosy",
+        "WER": 0.42857142857142855,
+        "mWER": 0.8571428571428571,
+        "missed_medical_terms": [
+          "biopsy",
+          "chronic",
+          "lesion",
+          "mucous",
+          "swelling",
+          "ulcer"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 4,
+        "reference": "cesarean delivery does not prevent perinatal transmission of hpv",
+        "prediction": "cisarin delivery does not prevail perental trasisionofhish",
+        "WER": 0.6666666666666666,
+        "mWER": 0.75,
+        "missed_medical_terms": [
+          "cesarean",
+          "perinatal",
+          "transmission"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 5,
+        "reference": "gingivectomy for deep pocketing also exposes the necks of the teeth and produces a horse tooth appearance unacceptable to most patients",
+        "prediction": "dinjivechtormy for depocating also exposes the neck of bhe tit and produces in hol stotd apearance unaceptable to most patents",
+        "WER": 0.5714285714285714,
+        "mWER": 0.8333333333333334,
+        "missed_medical_terms": [
+          "gingivectomy",
+          "necks",
+          "pocketing",
+          "teeth",
+          "tooth"
+        ],
+        "extra_medical_terms": [
+          "neck"
+        ]
+      },
+      {
+        "sample_id": 6,
+        "reference": "other specimen adequacy satisfactory for evaluation describe presence or absence of endocervical transformation zone component and any other quality indicators e",
+        "prediction": "other specimen adequaty satisfactory for evaluation described presence or absence of endoservical transfurmation zon components and eny other quality indicators e",
+        "WER": 0.3333333333333333,
+        "mWER": 0.4444444444444444,
+        "missed_medical_terms": [
+          "adequacy",
+          "component",
+          "endocervical",
+          "transformation"
+        ],
+        "extra_medical_terms": [
+          "components"
+        ]
+      },
+      {
+        "sample_id": 7,
+        "reference": "however it can often be avoided by energetic treatment earlier",
+        "prediction": "however it can often be avoided by energetic reatment earlier",
+        "WER": 0.1,
+        "mWER": 0.3333333333333333,
+        "missed_medical_terms": [
+          "treatment"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 8,
+        "reference": "it was at this time that her pulmonary nodules were further explored and she was diagnosed with metastatic lung cancer pulmonary artery thrombus and a malignant pleural effusion",
+        "prediction": "it was at this time that arpomary notis were further explored and she was diagnosed with metastatic long cancer poary atritrium bus and tae malignant pural efusion",
+        "WER": 0.35714285714285715,
+        "mWER": 0.5714285714285714,
+        "missed_medical_terms": [
+          "artery",
+          "effusion",
+          "lung",
+          "nodules",
+          "pleural",
+          "pulmonary",
+          "thrombus"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 9,
+        "reference": "myofascial defects are more difficult to manage",
+        "prediction": "miophacial gdeferses are more dificlt to manag",
+        "WER": 0.5714285714285714,
+        "mWER": 1.0,
+        "missed_medical_terms": [
+          "defects",
+          "manage",
+          "myofascial"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 10,
+        "reference": "there are many causes of premature loss of oocytes and premature menopause some of the more common causes are discussed below",
+        "prediction": "there are many corses of premature los of ocites and premature menopols some of the more comon courses are discused below",
+        "WER": 0.3333333333333333,
+        "mWER": 0.6666666666666666,
+        "missed_medical_terms": [
+          "causes",
+          "menopause",
+          "oocytes"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 11,
+        "reference": "in a healthy spine the spinal cord and nerve roots are suspended in csf free of mechanical compression",
+        "prediction": "in a herdy spine the spinal cord and nervrotes are suspended in the csf fre of mecanical",
+        "WER": 0.3888888888888889,
+        "mWER": 0.5555555555555556,
+        "missed_medical_terms": [
+          "compression",
+          "healthy",
+          "mechanical",
+          "nerve",
+          "roots"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 12,
+        "reference": "pt is to receive a hemodialysis treatment after the catheter placement",
+        "prediction": "patient is to receieve anyinmudialisis treatment after the catheter placement",
+        "WER": 0.36363636363636365,
+        "mWER": 0.5,
+        "missed_medical_terms": [
+          "hemodialysis",
+          "receive"
+        ],
+        "extra_medical_terms": [
+          "patient"
+        ]
+      },
+      {
+        "sample_id": 13,
+        "reference": "there are essentially two main components to most two piece implant systems the endosseous component previously often called the implant fixture now known as the implant body",
+        "prediction": "there are esentily two main components to most two pse implant systems semic the endosius components previosly often caled the implant xture now nown as the implant body",
+        "WER": 0.3333333333333333,
+        "mWER": 0.625,
+        "missed_medical_terms": [
+          "component",
+          "endosseous",
+          "essentially",
+          "fixture",
+          "previously"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 14,
+        "reference": "the relationship of roots particularly of the lower third molar to the inferior dental canal may be deduced from radiographs",
+        "prediction": "therelationship of rotes particularly of thloatord mula to the inferior dental canal may be deduced from radiograpfs",
+        "WER": 0.4,
+        "mWER": 0.75,
+        "missed_medical_terms": [
+          "lower",
+          "molar",
+          "radiographs",
+          "relationship",
+          "roots",
+          "third"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 15,
+        "reference": "113 some clinicians have used radiation therapy and biologic agents imatinib with some success in patients with advanced disease",
+        "prediction": "so clinitions have use radiation therapy and biological agente imatrny with some suces in patiets with advance diseases",
+        "WER": 0.5789473684210527,
+        "mWER": 0.5,
+        "missed_medical_terms": [
+          "biologic",
+          "clinicians",
+          "disease",
+          "imatinib"
+        ],
+        "extra_medical_terms": [
+          "diseases"
+        ]
+      },
+      {
+        "sample_id": 16,
+        "reference": "it avoids the mastoid cavity therefore its problems",
+        "prediction": "it avoids the mastoid cavity therefore its problems",
+        "WER": 0.0,
+        "mWER": 0.0,
+        "missed_medical_terms": [],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 17,
+        "reference": "biofeedback techniques and weighted vaginal cones are available to assist patients in learning the proper technique",
+        "prediction": "bio fedbak technis and whitedvergeneal conser arvilable to asist patients in lern the proper tecnic",
+        "WER": 0.6875,
+        "mWER": 1.0,
+        "missed_medical_terms": [
+          "assist",
+          "biofeedback",
+          "cones",
+          "vaginal",
+          "weighted"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 18,
+        "reference": "adenoids and infected tonsils may be predisposing factors responsible for the sinusitis",
+        "prediction": "ardenoides and infected ton sals may be predisposing factors responsible for the tinocites",
+        "WER": 0.3333333333333333,
+        "mWER": 0.42857142857142855,
+        "missed_medical_terms": [
+          "adenoids",
+          "sinusitis",
+          "tonsils"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 19,
+        "reference": "there is a specific formula for children",
+        "prediction": "there is a specific formularldy for children",
+        "WER": 0.14285714285714285,
+        "mWER": 1.0,
+        "missed_medical_terms": [
+          "formula"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 20,
+        "reference": "took 62 and 35cc well with yellow nipple",
+        "prediction": "tok and c wel with yelow npo",
+        "WER": 0.75,
+        "mWER": 0.75,
+        "missed_medical_terms": [
+          "35cc",
+          "nipple",
+          "yellow"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 21,
+        "reference": "the most commonly used agent is medroxyprogesterone acetate",
+        "prediction": "the most comoly used agent is medros progestero acertate",
+        "WER": 0.5,
+        "mWER": 1.0,
+        "missed_medical_terms": [
+          "acetate",
+          "medroxyprogesterone"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 22,
+        "reference": "calcitonin is a more sensitive tumor marker but cea is a better predictor of prognosis",
+        "prediction": "calcy toning is a more sensitive tumomaca but cea is a beter predictor of proknosis",
+        "WER": 0.4,
+        "mWER": 0.6,
+        "missed_medical_terms": [
+          "calcitonin",
+          "prognosis",
+          "tumor"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 23,
+        "reference": "under such circumstances the patients head and neck are extended and the trachea palpated",
+        "prediction": "under such circumstancies the patients head and neck are extended and the trachep arhte",
+        "WER": 0.21428571428571427,
+        "mWER": 0.6666666666666666,
+        "missed_medical_terms": [
+          "palpated",
+          "trachea"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 24,
+        "reference": "multicenter vats experience with mediastinal tumors",
+        "prediction": "multicentral vat experince with media stinar tumors",
+        "WER": 0.8333333333333334,
+        "mWER": 0.6,
+        "missed_medical_terms": [
+          "mediastinal",
+          "multicenter",
+          "vats"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 25,
+        "reference": "her coronary arteries were other wise normal",
+        "prediction": "her cronary arteries were atherwize normal",
+        "WER": 0.42857142857142855,
+        "mWER": 0.5,
+        "missed_medical_terms": [
+          "coronary"
+        ],
+        "extra_medical_terms": []
+      },
+      {
+        "sample_id": 26,
+        "reference": "this node is not significantly changed in size and in intensity since the prior study today s max suv is 5 2 compared to the prior of 4 9",
+        "prediction": "this nod is not significantly changed in size and in intensity since the prior study todays maximum standardized uptake valu is compared to the prior of",
+        "WER": 0.3448275862068966,
+        "mWER": 0.25,
+        "missed_medical_terms": [
+          "node"
+        ],
+        "extra_medical_terms": []
+      }
+    ]
+  }
+}

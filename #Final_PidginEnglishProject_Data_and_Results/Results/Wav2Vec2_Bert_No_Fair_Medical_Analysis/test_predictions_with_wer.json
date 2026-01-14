@@ -1,0 +1,277 @@
+{
+  "overall_wer": 0.3536231884057971,
+  "overall_cer": 0.13129912159038373,
+  "num_samples": 45,
+  "results": [
+    {
+      "id": 0,
+      "prediction": "she was selected best young player awoards in season",
+      "reference": "she was selected best young player awards in season",
+      "wer": 0.1111111111111111
+    },
+    {
+      "id": 1,
+      "prediction": "management and primary hyperprioderoisein surgical removal of the phryatoroides iscreat",
+      "reference": "managementi n primary hyperparathyroidism surgical removal of the parathyroids is curative",
+      "wer": 0.5454545454545454
+    },
+    {
+      "id": 2,
+      "prediction": "minor anafhilactic reation such as itiscaria can be treated with ora or intramuscular plofe neuramine",
+      "reference": "minor anaphylactic reactions such as urticaria can be treated with oral or intramuscular chlorpheniramine",
+      "wer": 0.42857142857142855
+    },
+    {
+      "id": 3,
+      "prediction": "titus sarculardevarticolum of an estrahepatic bido",
+      "reference": "type ii saccular diverticulum of an extrahepatic bile duct",
+      "wer": 0.7777777777777778
+    },
+    {
+      "id": 4,
+      "prediction": "the natue of a cronic hosar whit or redlation or swelling of themucoes mnembrane must be confirmed by piose",
+      "reference": "the nature of a chronic ulcer white or red lesion or swelling of the mucous membrane must be confirmed by biopsy",
+      "wer": 0.47619047619047616
+    },
+    {
+      "id": 5,
+      "prediction": "cisarin delivery does not prevail perental trasisionofhish",
+      "reference": "cesarean delivery does not prevent perinatal transmission of hpv",
+      "wer": 0.6666666666666666
+    },
+    {
+      "id": 6,
+      "prediction": "today microsoft has really hat done itself after annauncing a tider wave of new tairms fictures set to lunch this year",
+      "reference": "today microsoft has really outdone itself after announcing a tidal wave of new teams features set to launch this year",
+      "wer": 0.35
+    },
+    {
+      "id": 7,
+      "prediction": "dinjivechtormy for depocating also exposes the neck of bhe tit and produces in hol stotd appearance unacceptable to most patents",
+      "reference": "gingivectomy for deep pocketing also exposes the necks of the teeth and produces a 'horsetooth ' appearance unacceptable to most patients",
+      "wer": 0.47619047619047616
+    },
+    {
+      "id": 8,
+      "prediction": "while wood prod the last gop of musican atorni of forders is annual venetit concert",
+      "reference": "wild wood productions a large group of musicians are tuning up for their eighth annual benefit concert",
+      "wer": 0.7647058823529411
+    },
+    {
+      "id": 9,
+      "prediction": "pain assessment for folawom opogenry using nonverbal cues facial grimising and vital signs",
+      "reference": "pain assessment for folawunmi okwujinri using nonverbal cues facial grimacing and vital signs",
+      "wer": 0.23076923076923078
+    },
+    {
+      "id": 10,
+      "prediction": "other specimen adequaty satisfactory for evaluation describe presence or absence of endoservical transfurmation zon components and enny other quality indicators e",
+      "reference": "other specimen adequacy satisfactory for evaluation describe presence or absence of endocervical transformation zone component and any other quality indicators e",
+      "wer": 0.2857142857142857
+    },
+    {
+      "id": 11,
+      "prediction": "however it can often be avoided by energetic reatment earlier",
+      "reference": "however it can often be avoided by energetic treatment earlier",
+      "wer": 0.1
+    },
+    {
+      "id": 12,
+      "prediction": "it was at this time that arpomary notds were further explored and she was diagnosed with metastatic long cancer poary atritrium buss and the malignant pural effusion",
+      "reference": "it was at this time that her pulmonary nodules were further explored and she was diagnosed with metastatic lung cancer pulmonary artery thrombus and a malignant pleural effusion",
+      "wer": 0.32142857142857145
+    },
+    {
+      "id": 13,
+      "prediction": "miophacial gdeferses are more difficlt to manag",
+      "reference": "myofascial defects are more difficult to manage",
+      "wer": 0.5714285714285714
+    },
+    {
+      "id": 14,
+      "prediction": "there are many corses of premature loss of ocites and premature menopols some of the more common courses are discussed below",
+      "reference": "there are many causes of premature loss of oocytes and premature menopause some of the more common causes are discussed below",
+      "wer": 0.19047619047619047
+    },
+    {
+      "id": 15,
+      "prediction": "however there is a question of the public good espetcially in the case of infectios diseases",
+      "reference": "however there is a question of the public good especially in the case of infectious diseases",
+      "wer": 0.125
+    },
+    {
+      "id": 16,
+      "prediction": "in a herdy spine the spinal cord and nervrotes are suspended in the csf free of mecanical",
+      "reference": "in a healthy spine the spinal cord and nerve roots are suspended in csf free of mechanical compression",
+      "wer": 0.3333333333333333
+    },
+    {
+      "id": 17,
+      "prediction": "patient is to receieve anyinmudialisis treatment after the catheter placement",
+      "reference": "pt is to receive a hemodialysis treatment after the catheter placement",
+      "wer": 0.36363636363636365
+    },
+    {
+      "id": 18,
+      "prediction": "there are esentilly two main components to most two pse implant systems semic the endosius components previosly often called the implant xture now nown as the implant body",
+      "reference": "there are essentially two main components to most twopiece implant systems the endosseous component previously often called the implant fixture now known as the implant body",
+      "wer": 0.34615384615384615
+    },
+    {
+      "id": 19,
+      "prediction": "therelationship of rotes particularly of thloatord mula to the inferior dental canal may be deduced from radiograpfs",
+      "reference": "the relationship of roots particularly of the lower third molar to the inferior dental canal may be deduced from radiographs",
+      "wer": 0.4
+    },
+    {
+      "id": 20,
+      "prediction": "obodor informd the house that most scst states in the south south had taken concerted mesures to improve their internally generated revenue through agriculture and that biolsa should also prioritize agriculture",
+      "reference": "obordor informed the house that most sisterstates in the southsouth had taken concerted measures to improve their internally generated revenue through agriculture and that bayelsa should also prioritise agriculture",
+      "wer": 0.3103448275862069
+    },
+    {
+      "id": 21,
+      "prediction": "som clinitions have use radiation therapy and biological agente immatrny with some success in patiets with advance diseases",
+      "reference": "some clinicians have used radiation therapy and biologic agents imatinib with some success in patients with advanced disease",
+      "wer": 0.5
+    },
+    {
+      "id": 22,
+      "prediction": "it avoids the mastoid cavity therefore its problems",
+      "reference": "it avoids the mastoid cavity therefore its problems",
+      "wer": 0.0
+    },
+    {
+      "id": 23,
+      "prediction": "bio feedbak technis and whitedvergeneal conser arvilable to assist patients in lern the proper tecnic",
+      "reference": "biofeedback techniques and weighted vaginal cones are available to assist patients in learning the proper technique",
+      "wer": 0.625
+    },
+    {
+      "id": 24,
+      "prediction": "zak investment research raised shares of acion enterprize from a sell rating to a hold rating in the research report on tuesday januaryt",
+      "reference": "zacks investment research raised shares of axon enterprise from a sell rating to a hold rating in a research report on tuesday january th",
+      "wer": 0.25
+    },
+    {
+      "id": 25,
+      "prediction": "it reached n in the uka singles chart citation you had me was released as the first single from stones second album",
+      "reference": "it reached number in the uk singles chart citation you had me was released as the first single from stones second album",
+      "wer": 0.09090909090909091
+    },
+    {
+      "id": 26,
+      "prediction": "as we speak therare millions of workers right now who have been told to go to work yet they may be heal and should be stain home",
+      "reference": "as we speak there are millions of workers right now who are being told to go to work yet they may be ill and should be staying home",
+      "wer": 0.21428571428571427
+    },
+    {
+      "id": 27,
+      "prediction": "acting entertainment director anahwood side",
+      "reference": "acting entertainment directorhannawoodside",
+      "wer": 1.0
+    },
+    {
+      "id": 28,
+      "prediction": "whever a jurn is  iwies how dediscernment to navigaded similaosli",
+      "reference": "whatever your journey is i wish you the discernment to navigate it seamlessly",
+      "wer": 0.8461538461538461
+    },
+    {
+      "id": 29,
+      "prediction": "ardenoides and infected ton sals may be predisposing factors responsible for the tinocites",
+      "reference": "adenoids and infected tonsils may be predisposing factors responsible for the sinusitis",
+      "wer": 0.3333333333333333
+    },
+    {
+      "id": 30,
+      "prediction": "dr chukudubem eriola speaking next line pain is worse with sitting standing and working patient lang caere has tried analrgesic medication next line",
+      "reference": "dr chukwudubem erinola speaking next line pain is worse with sitting standing and walking patient lanke has tried analgesic medication next line",
+      "wer": 0.2727272727272727
+    },
+    {
+      "id": 31,
+      "prediction": "wilam dafur spiderman no way home",
+      "reference": "willem dafoe spiderman no way home",
+      "wer": 0.3333333333333333
+    },
+    {
+      "id": 32,
+      "prediction": "her botoums featured a tung back that exposed her part body",
+      "reference": "her bottoms featured a thong back that exposed her pert booty",
+      "wer": 0.36363636363636365
+    },
+    {
+      "id": 33,
+      "prediction": "there is a specific formularldy for children",
+      "reference": "there is a specific formula for children",
+      "wer": 0.14285714285714285
+    },
+    {
+      "id": 34,
+      "prediction": "nizem e as een able to mak two motors s ine l and the nd",
+      "reference": "since then he has been able to make two more short films life and the end",
+      "wer": 0.6875
+    },
+    {
+      "id": 35,
+      "prediction": "youve become a gunright advocate doing speaches working on legislation",
+      "reference": "youve become a gun rights advocate doing speeches working on legislation",
+      "wer": 0.2727272727272727
+    },
+    {
+      "id": 36,
+      "prediction": "took and cc wel with yellow npo",
+      "reference": "took and cc well with yellow nipple",
+      "wer": 0.2857142857142857
+    },
+    {
+      "id": 37,
+      "prediction": "the most comoly used agent is medros progestero acertate",
+      "reference": "the most commonly used agent is medroxyprogesterone acetate",
+      "wer": 0.5
+    },
+    {
+      "id": 38,
+      "prediction": "also thestradition will not take place if the acute person is still under examination or under punishment on the conclusion of the trar",
+      "reference": "also extradition will not take place if the accused person is still under examination or under punishment until the conclusion of the trial",
+      "wer": 0.17391304347826086
+    },
+    {
+      "id": 39,
+      "prediction": "calcy toning is a more sensitive tumomaca but cea is a better predictor of proknosis",
+      "reference": "calcitonin is a more sensitive tumor marker but cea is a better predictor of prognosis",
+      "wer": 0.3333333333333333
+    },
+    {
+      "id": 40,
+      "prediction": "under such circumstancies the patients head and neck are extended and the trachep ar",
+      "reference": "under such circumstances the patients head and neck are extended and the trachea palpated",
+      "wer": 0.21428571428571427
+    },
+    {
+      "id": 41,
+      "prediction": "multicentral vat experince with media stinar tumors",
+      "reference": "multicenter vats experience with mediastinal tumors",
+      "wer": 0.8333333333333334
+    },
+    {
+      "id": 42,
+      "prediction": "had elective cesarean section in on account of maternal request no history of hasma diopa azummediaro next line",
+      "reference": "had elective cesarean section in on account of maternal request no history of asthma diopka azumdiaro next line",
+      "wer": 0.16666666666666666
+    },
+    {
+      "id": 43,
+      "prediction": "her cronary arteries were atherwize normal",
+      "reference": "her coronary arteries were other wise normal",
+      "wer": 0.42857142857142855
+    },
+    {
+      "id": 44,
+      "prediction": "this nod is not significantly changed in size and in intensity since the prior study todays maximum standardized uptake valu is compared to the prior of",
+      "reference": "this node is not significantly changed in size and in intensity since the prior study today's max suv is compared to the prior of",
+      "wer": 0.25
+    }
+  ]
+}

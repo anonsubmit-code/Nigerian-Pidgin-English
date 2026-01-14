@@ -1,0 +1,75 @@
+{
+  "config": {
+    "Seed": 42,
+    "modelName": "openai/whisper-small",
+    "language": "en",
+    "task": "transcribe",
+    "fine-tuned": "yes",
+    "fairness": "Yes",
+    "Fairness Aware Training": "Yes",
+    "Subgroup_Sampling": "Yes",
+    "Compute Loss": "Loss Reweighting",
+    "Custom Sampler": "Subgroup Sampler",
+    "num_train_epochs": 20,
+    "batch_size": 16,
+    "learning_rate": 3e-05,
+    "weight_decay": 0.01,
+    "warmup_steps": 500,
+    "fp16": true,
+    "dataloader_num_workers": 0,
+    "dataloader_pin_memory": false,
+    "save_total_limit": 2,
+    "eval_strategy": "epoch",
+    "save_strategy": "epoch",
+    "include_inputs_for_metrics": false,
+    "predict_with_generate": true,
+    "generation_max_length": 225,
+    "logging_strategy": "epoch",
+    "load_best_model_at_end": true,
+    "metric_for_best_model": "wer",
+    "greater_is_better": false,
+    "remove_unused_columns": false,
+    "disable_tqdm": false,
+    "label_names": [
+      "labels"
+    ],
+    "report_to": [
+      "tensorboard"
+    ],
+    "early_stopping_patience": 6
+  },
+  "ColabConfig": {
+    "GPU": "A100 GPU",
+    "RAM": "84GB",
+    "CPU": "4 CPU"
+  },
+  "overall": {
+    "wer": 0.2767475035663338,
+    "cer": 0.142347166443552
+  },
+  "by_gender": {
+    "Female": 0.2706270627062706,
+    "Male": 0.2814070351758794
+  },
+  "by_accent": {
+    "pidgin": 0.2767475035663338
+  },
+  "by_domain": {
+    "general": 0.29411764705882354,
+    "clinical": 0.26329113924050634
+  },
+  "by_age_group": {
+    "": 0.28654970760233917,
+    "19-25": 0.2607361963190184,
+    "41-55": 0.3114754098360656,
+    "<18yrs": 0.2867132867132867
+  },
+  "wer_by_subgroup": {
+    "|Female|general": 0.36923076923076925,
+    "19-25|Male|clinical": 0.2846715328467153,
+    "|Male|general": 0.2358490566037736,
+    "41-55|Female|clinical": 0.3114754098360656,
+    "19-25|Female|clinical": 0.1346153846153846,
+    "<18yrs|Female|general": 0.27350427350427353
+  }
+}
